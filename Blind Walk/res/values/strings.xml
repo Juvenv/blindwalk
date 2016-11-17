@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Blind Walk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Fale por favor</string>
+    <string name="speech_not_supported">Desculpe! Seu dispositivo não suporta speech input</string>
+    <string name="tap_on_mic">Clique na microfone para Falar</string>
+    <string name="destino">Destino</string>
+    <string name="rota">Rota</string>
+    <string name="bemvindo">Seja Bem vindo ao App Blind Walk Canindé</string>
+    <string name="sobre">Sobre</string>
+    <string name="txt_bottom">EEEP Capelão Frei Orlando,            IFCE Campus Canindé, InovaEye.</string>
+</resources>
